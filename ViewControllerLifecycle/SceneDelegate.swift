@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  ViewControllerLifecycle
 //
-//  Created by Angela Yu on 28/10/2019.
-//  Copyright © 2019 Angela Yu. All rights reserved.
+//  Created by Angela Yu on 01/07/2019.
+//  Copyright © 2019 The App Brewery. All rights reserved.
 //
 
 import UIKit
@@ -50,4 +50,3 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 
 }
-
